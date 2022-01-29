@@ -1,0 +1,39 @@
+{
+  "name": "nuxt-honeypot",
+  "version": "1.0.0",
+  "description": "Nuxt module for vue-honeypot.",
+  "repository": "dword-design/nuxt-honeypot",
+  "funding": "https://github.com/sponsors/dword-design",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "checkUnknownFiles": "base checkUnknownFiles",
+    "commit": "base commit",
+    "dev": "base dev",
+    "lint": "base lint",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "test": "base test"
+  },
+  "dependencies": {
+    "nuxt-push-plugins": "^2.0.9",
+    "vue-honeypot": "^1.0.2"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^8.6.12",
+    "vue": "^2.6.14"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.14"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
