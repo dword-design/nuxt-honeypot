@@ -6,6 +6,8 @@
   "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "type": "module",
+  "exports": "./dist/index.js",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -13,6 +15,7 @@
   "scripts": {
     "checkUnknownFiles": "base checkUnknownFiles",
     "commit": "base commit",
+    "depcheck": "base depcheck",
     "dev": "base dev",
     "lint": "base lint",
     "prepare": "base prepare",
@@ -24,14 +27,14 @@
     "vue-honeypot": "^1.0.2"
   },
   "devDependencies": {
-    "@dword-design/base": "^8.6.12",
+    "@dword-design/base": "^9.2.3",
     "vue": "^2.6.14"
   },
   "peerDependencies": {
     "vue": "^2.6.14"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=14"
   },
   "publishConfig": {
     "access": "public"
