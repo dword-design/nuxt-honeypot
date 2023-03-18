@@ -9436,9 +9436,9 @@ vue-eslint-parser@^7.0.0, vue-eslint-parser@^7.10.0:
     semver "^6.3.0"
 
 vue-honeypot@^1.0.2:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/vue-honeypot/-/vue-honeypot-1.0.5.tgz#524287b8fa66ffe12dd27c5e75360588a8952741"
-  integrity sha512-kTkTZFmnKnJVMfX1U5lwGLFnWg2wuFsIPTOHTBv+R78TLXtWtCFgFuwcEW6UExpfuRdx7kjWGDdmlEYR+qaGfQ==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/vue-honeypot/-/vue-honeypot-1.0.6.tgz#cc1ba212a82af2bd7c3ba6fbe18b7cdb05df795e"
+  integrity sha512-d31nfWSSrXhPoQkC1La89ctSMxOlwkw8jex8Ebmb2uds5q8tBUpN1/cB1ONtJ7rOqgM3Daqp9ZJbOVXrjLWJ7g==
 
 vue@^2.6.14:
   version "2.6.14"
