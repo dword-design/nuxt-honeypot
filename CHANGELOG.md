@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/nuxt-honeypot/compare/v1.0.0...v1.0.1) (2023-03-24)
+
+
+### Bug Fixes
+
+* update dependency vue-honeypot to v1.0.6 ([41f5833](https://github.com/dword-design/nuxt-honeypot/commit/41f5833db25c75ac1007b820eb04d085b9709cbe))
+
 # 1.0.0 (2022-01-29)
 
 

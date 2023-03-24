@@ -1,6 +1,6 @@
 {
   "name": "nuxt-honeypot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nuxt module for vue-honeypot.",
   "repository": "dword-design/nuxt-honeypot",
   "funding": "https://github.com/sponsors/dword-design",
