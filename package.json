@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "nuxt-push-plugins": "^2.0.9",
-    "vue-honeypot": "^1.0.2"
+    "vue-honeypot": "^2.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^8.6.12",
